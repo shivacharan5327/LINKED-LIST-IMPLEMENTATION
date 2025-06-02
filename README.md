@@ -17,4 +17,5 @@ This is a C program that simulates the fundamental operations of a singly linked
 
 *OUTPUT
 
-![Image](https://github.com/user-attachments/assets/0a35e978-a3cf-4057-8115-1e884ded781e)
+![IMG-20250602-WA0022](https://github.com/user-attachments/assets/13dddbe1-e902-4f7f-bd96-28746ed909dd)
+
