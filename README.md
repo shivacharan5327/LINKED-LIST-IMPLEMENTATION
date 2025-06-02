@@ -1,4 +1,3 @@
-![Uploading IMG-20250602-WA0020.jpg…]()
 # LINKED-LIST-IMPLEMENTATION
 
 *COMPANY*: CODTECH IT SOLUTIONS
@@ -20,3 +19,4 @@ This is a C program that simulates the fundamental operations of a singly linked
 
 ![IMG-20250602-WA0022](https://github.com/user-attachments/assets/13dddbe1-e902-4f7f-bd96-28746ed909dd)
 
+![IMG-20250602-WA0020](https://github.com/user-attachments/assets/348572c6-76d3-4d39-8cdb-76df96ceb57d)
